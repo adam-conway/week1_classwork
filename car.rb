@@ -2,7 +2,7 @@ class Car
   attr_accessor :color,
                 :wheel_count
 
-  @running = false
+  @running = true
 
   def horn
     return "BEEEEEP!"

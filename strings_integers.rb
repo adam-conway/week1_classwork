@@ -35,3 +35,10 @@ def compression(word)
 end
 
 compression("Denver")
+
+age = 4
+print "Happy"
+(age - 1).times do
+  print " happy "
+end
+puts "birthday!"
