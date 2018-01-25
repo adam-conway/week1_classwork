@@ -18,8 +18,7 @@ def seven(number)
   end
 end
 
-number_array.
-each do |number|
+number_array.each do |number|
   if three(number) && five(number) && seven(number)
     puts "SuperFizzBuzz"
   elsif three(number) && seven(number)
